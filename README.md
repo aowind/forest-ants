@@ -132,6 +132,16 @@ python -m http.server 8000
 const { scene, camera, controls, renderer, ants } = window.__forest;
 ```
 
+## 技术文章
+
+在 AIGPart 社区连带写了三篇实现笔记：
+
+- [零贴图的 3D 森林：用 Canvas 2D 在运行时生成全部材质](https://aigpart.com/forum/t/36)
+- [让蚂蚁真的爬进洞里：3D 场景里的高度场物理](https://aigpart.com/forum/t/37)
+- [清晨森林的光：实时 3D 场景的光照、雾与体积光管线](https://aigpart.com/forum/t/38)
+
+AIGPart 作品页：<https://aigpart.com/works/forest-ants>
+
 ## 技术栈
 
 - **Three.js r186.1** —— 通过 importmap 从 jsDelivr 加载，含 OrbitControls、EffectComposer、UnrealBloomPass、OutputPass
