@@ -132,10 +132,11 @@ python -m http.server 8000
 const { scene, camera, controls, renderer, ants } = window.__forest;
 ```
 
-## 技术文章
+## 技术文档
 
-在 AIGPart 社区连带写了三篇实现笔记：
+在 AIGPart 社区连带写的实现笔记：
 
+- [开发文档：一片 3D 森林的 AI 协作实录——提示词、模型与 Agent 工具](https://aigpart.com/forum/t/39)
 - [零贴图的 3D 森林：用 Canvas 2D 在运行时生成全部材质](https://aigpart.com/forum/t/36)
 - [让蚂蚁真的爬进洞里：3D 场景里的高度场物理](https://aigpart.com/forum/t/37)
 - [清晨森林的光：实时 3D 场景的光照、雾与体积光管线](https://aigpart.com/forum/t/38)
