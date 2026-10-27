@@ -3,3 +3,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .node_modules/
+.aig.cookie
+*.cookie
+upload_gh.py
+publish_work.py
+post_articles.py
+save-server.py
+desc.md
